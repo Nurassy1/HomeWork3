@@ -1,0 +1,111 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+
+.header{
+    background-image: url(https://i.pinimg.com/474x/88/f4/3c/88f43cdf7ab1130e5e45b815226c88c9.jpg);
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+
+}
+
+.header h1{
+    padding-top: 50px;
+    font-family: "Covered By Your Grace";
+    font-size: 70px;
+}
+
+.roasting{
+    text-align: center;
+    background-color: white;
+    padding: 0 70px;
+    padding-bottom: 20px;
+    margin: 80px;
+    
+}
+
+.spectrum{
+    padding: 0 30px;
+}
+
+.green{
+    background-color: #9AEBA3;
+    color: white;
+    padding: 5px;
+}
+
+.light{
+    background-color: #F0A300;
+    color: white;
+    padding: 5px;
+}
+
+.city{
+    background-color: #F07700;
+    color: white;
+    padding: 5px 0;
+}
+
+.vienna{
+    background-color: #A62B1F;
+    color: white;
+    padding: 5px;
+}
+
+.italian{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+h2{
+    color: bisque;
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    font-weight: 400; 
+}
+
+a{  
+    color: black;
+}
+
+ul p{
+    color: rgb(110, 101, 94);
+}
+
+ul li{
+    display: block;
+}
+
+.spectrum p{
+    color: #fff8e9;
+}
+
+.spectrum{
+    display: inline;
+    text-align: start;
+}
+
+h4{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+}
+
+h5{
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
+}
+
+h3{
+    font-family: "Raleway", sans-serif;
+    font-weight: 30;
+}
+
+.roasting p{
+    font-family: "Raleway", sans-serif;
+    
+}
